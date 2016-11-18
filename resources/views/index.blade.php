@@ -8,7 +8,7 @@
     <title>Heroku</title>
 </head>
 <body>
-<h1>EJF::Tasks</h1>
+<h1>EJF::Tasks - (Teste)</h1>
 
 <ul>
     @foreach($tasks as $task)
